@@ -34,6 +34,8 @@ public class PartidaXadrez {
 		lugarNovaPeca('b',6,new Torre(tabuleiro,Cor.BRANCO));
 		lugarNovaPeca('e',8,new Rei(tabuleiro,Cor.PRETO));
 		lugarNovaPeca('e',1,new Rei(tabuleiro,Cor.BRANCO));
+		lugarNovaPeca('b',4,new Torre(tabuleiro,Cor.BRANCO));
+		lugarNovaPeca('e',7,new Torre(tabuleiro,Cor.PRETO));
 		
 		
 	}
